@@ -26,4 +26,4 @@ add the executable to the PATH, and start building the address-book.
 ## Usage
 Build your contact book using `Toml` format, after installation it's located
 in `~/.contacts/addresses.toml`. This project could be used to allow for
-autocompletion of contacts in for example [Aerc](https://www.aerc-mail.org).
+autocompletion of contacts in for example [Aerc](https://aerc-mail.org/).
