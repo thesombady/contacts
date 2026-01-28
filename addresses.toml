@@ -1,0 +1,15 @@
+[Config]
+searchPattern = ["University", "Personal", "Work"]
+# This will be used in the future
+uuid = true
+
+[[Contact]]
+Name = "A"
+Mail =
+  { Work = "a@b.com"
+  , Personal = "aa@b.com"
+  }
+
+[[Contact]]
+Name = "B"
+Mail = { Work = "b@b.com" }

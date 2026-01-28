@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:contacts"
+
+    - path: "app/Main.hs"
+      component: "contacts:exe:contacts"
+
+    - path: "test"
+      component: "contacts:test:contacts-test"
